@@ -1,0 +1,89 @@
+Région;Températures les plus chaudes (en °C) ;Heures d'ensoleillement ;TempÈratures les plus froides (en ∞C);Hauteur des prÈcipitations (en mm);Vitesse maximale du vent (en km/h);Date ;;RÈgion;Températures les plus chaudes (en °C) ;Heures d'ensoleillement ;TempÈratures les plus froides (en ∞C);Hauteur des prÈcipitations (en mm);Date
+Franche-Comté;35;1718;-10;1198;101;2016;;Bourgogne-Franche-ComptÈ;36;1758;-9;1029;2016
+Aquitaine;40;2005;-8;964;133;2016;;Auvergne-RhÙnes-Alpes;37;1773;-10;943;2016
+Rhônes-Alpes;36;1628;-11;959;119;2016;;Bretagne;38;1667;-6;763;2016
+Auvergne;38;1918;-8;926;112;2016;;Centre-Val-de-Loire;38;1774;-8;700;2016
+Limousin;39;1897;-10;926;97;2016;;Corse;36;2471;-2;668;2016
+Languedoc-Roussillon;37;2229;-10;882;176;2016;;Grand-Est;55;2480;-16;1190;2016
+Bourgogne;37;1797;-7;860;104;2016;;Hauts-de-France;36;1636;-8;779;2016
+Lorraine;37;1592;-12;823;104;2016;;Œle-de-France;37;1667;-8;645;2016
+Nord-Pas-de-Calais;35;1613;-6;811;112;2016;;Normandie;37;1654;-7;706;2016
+Champagne-Ardenne;37;1655;-10;807;108;2016;;Nouvelle-Aquitaine;39;1950;-8;856;2016
+Basse-Normandie;36;1696;-7;772;115;2016;;Occitanie;38;2135;-9;818;2016
+Bretagne;38;1667;-6;763;140;2016;;Pays-de-la-Loire;38;1839;-6;714;2016
+Midi-Pyrénées;38;2041;-8;754;122;2016;;Provences-Alpes-CÙte d'Azur;37;2725;-10;564;2016
+Alsace;36;1713;-9;749;122;2016;;Bourgogne-Franche-ComptÈ;36;1979;-14;811;2017
+Picardie;36;1658;-9;747;112;2016;;Auvergne-RhÙnes-Alpes;38;2109;-14;780;2017
+Pays de la Loire;38;1839;-6;714;130;2016;;Bretagne;35;1707;-8;749;2017
+Centre;38;1774;-8;700;112;2016;;Centre-Val-de-Loire;37;1902;-11;614;2017
+Poitou-Charentes;38;1947;-6;677;115;2016;;Corse;38;3047;-3;585;2017
+Corse;36;2471;-2;668;133;2016;;Grand-Est;36;1862;-14;680;2017
+Île-de-France;37;1667;-8;645;97;2016;;Hauts-de-France;36;1619;-8;719;2017
+Haute-Normandie;37;1611;-7;640;140;2016;;Œle-de-France;37;1594;-8;667;2017
+Provence-Alpes-Côte d'Azur;37;2725;-10;564;122;2016;;Normandie;36;1650;-10;783;2017
+Franche-Comté;35;1950;-16;955;101;2017;;Nouvelle-Aquitaine;37;1913;-12;791;2017
+Aquitaine;38;2059;-14;883;119;2017;;Occitanie;40;2376;-12;670;2017
+Rhônes-Alpes;39;2160;-15;746;144;2017;;Pays-de-la-Loire;38;1886;-9;656;2017
+Auvergne;36;2058;-12;814;126;2017;;Provences-Alpes-CÙte d'Azur;42;2886;-10;393;2017
+Limousin;37;2000;-12;895;119;2017;;Bourgogne-Franche-ComptÈ;38;1999;-14;850;2018
+Languedoc-Roussillon;42;2587;-13;625;180;2017;;Auvergne-RhÙnes-Alpes;38;2034;-14;863;2018
+Bourgogne;36;2007;-11;667;101;2017;;Bretagne;35;1940;-7;779;2018
+Lorraine;37;1826;-16;759;101;2017;;Centre-Val-de-Loire;37;1806;-14;728;2018
+Nord-Pas-de-Calais;35;1551;-6;736;126;2017;;Corse;36;2336;-1;946;2018
+Champagne-Ardenne;36;1799;-12;711;119;2017;;Grand-Est;37;1986;-13;692;2018
+Basse-Normandie;35;1717;-10;819;133;2017;;Hauts-de-France;38;1790;-9;686;2018
+Bretagne;35;1707;-8;749;191;2017;;Œle-de-France;38;1986;-9;675;2018
+Midi-Pyrénées;38;2164;-10;714;122;2017;;Normandie;35;1808;-10;784;2018
+Alsace;36;1962;-14;570;101;2017;;Nouvelle-Aquitaine;37;2072;-13;902;2018
+Picardie;36;1686;-9;702;104;2017;;Occitanie;39;2164;-14;1095;2018
+Pays de la Loire;38;1886;-9;656;137;2017;;Pays-de-la-Loire;36;2034;-14;914;2018
+Centre;37;1902;-11;614;122;2017;;Provences-Alpes-CÙte d'Azur;39;2448;-10;988;2018
+Poitou-Charentes;37;1680;-9;595;130;2017;;Bourgogne-Franche-ComptÈ;41;2116;-8;850;2019
+Corse;38;3047;-3;585;133;2017;;Auvergne-RhÙnes-Alpes;42;2129;-8;825;2019
+Île-de-France;37;1594;-8;667;112;2017;;Bretagne;40;1883;-4;927;2019
+Haute-Normandie;36;1583;-9;746;126;2017;;Centre-Val-de-Loire;42;2112;-10;665;2019
+Provence-Alpes-Côte d'Azur;42;2886;-10;393;130;2017;;Corse;40;2894;-1;767;2019
+Franche-Comté;37;1905;-14;973;133;2018;;Grand-Est;40;2004;-9;681;2019
+Aquitaine;37;1999;-17;983;126;2018;;Hauts-de-France;42;1747;-7;758;2019
+Rhônes-Alpes;38;2003;-14;1001;108;2018;;Œle-de-France;43;1862;-5;656;2019
+Auvergne;38;2065;-14;724;112;2018;;Normandie;41;1698;-6;792;2019
+Limousin;38;2038;-13;903;97;2018;;Nouvelle-Aquitaine;41;2130;-7;948;2019
+Languedoc-Roussillon;40;2349;-16;1307;176;2018;;Occitanie;43;2390;-9;864;2019
+Bourgogne;38;2092;-13;727;101;2018;;Pays-de-la-Loire;41;2013;-8;792;2019
+Lorraine;37;2002;-15;757;108;2018;;Provences-Alpes-CÙte d'Azur;43;2710;-10;796;2019
+Nord-Pas-de-Calais;38;1778;-8;654;130;2018;;;;;;;
+Champagne-Ardenne;38;2113;-11;747;119;2018;;;;;;;
+Basse-Normandie;35;1954;-10;831;144;2018;;;;;;;
+Bretagne;35;1940;-7;779;148;2018;;;;;;;
+Midi-Pyrénées;37;1978;-12;882;119;2018;;;;;;;
+Alsace;36;1842;-13;573;126;2018;;;;;;;
+Picardie;37;1801;-10;717;119;2018;;;;;;;
+Pays de la Loire;36;2034;-14;914;119;2018;;;;;;;
+Centre;37;1806;-14;728;112;2018;;;;;;;
+Poitou-Charentes;37;2180;-8;820;112;2018;;;;;;;
+Corse;36;2336;-1;946;137;2018;;;;;;;
+Île-de-France;38;1986;-9;675;115;2018;;;;;;;
+Haute-Normandie;35;1662;-9;736;130;2018;;;;;;;
+Provence-Alpes-Côte d'Azur;39;2448;-10;988;133;2018;;;;;;;
+Franche-Comté;39;2078;-8;1033;112;2019;;;;;;;
+Aquitaine;41;2118;-10;1078;140;2019;;;;;;;
+Rhônes-Alpes;42;2042;-8;916;130;2019;;;;;;;
+Auvergne;41;2215;-8;733;108;2019;;;;;;;
+Limousin;42;2081;-7;911;101;2019;;;;;;;
+Languedoc-Roussillon;44;2603;-11;812;191;2019;;;;;;;
+Bourgogne;42;2154;-7;666;108;2019;;;;;;;
+Lorraine;40;1935;-9;699;101;2019;;;;;;;
+Nord-Pas-de-Calais;42;1684;-7;814;122;2019;;;;;;;
+Champagne-Ardenne;42;1971;-9;719;108;2019;;;;;;;
+Basse-Normandie;40;1884;-5;876;115;2019;;;;;;;
+Bretagne;40;1883;-4;927;151;2019;;;;;;;
+Midi-Pyrénées;41;2176;-7;915;144;2019;;;;;;;
+Alsace;39;2105;-9;626;115;2019;;;;;;;
+Picardie;42;1810;-7;702;112;2019;;;;;;;
+Pays de la Loire;41;2013;-8;792;137;2019;;;;;;;
+Centre;42;2112;-10;665;112;2019;;;;;;;
+Poitou-Charentes;41;2190;-4;854;119;2019;;;;;;;
+Corse;40;2894;-1;767;169;2019;;;;;;;
+Île-de-France;43;1862;-5;656;108;2019;;;;;;;
+Haute-Normandie;41;1511;-6;708;130;2019;;;;;;;
+Provence-Alpes-Côte d'Azur;43;2710;-10;796;137;2019;;;;;;;

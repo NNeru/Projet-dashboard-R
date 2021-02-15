@@ -1,0 +1,13 @@
+valeur aberrantes pour le temperatures par saison
+facetting 
+nombre de catnat par année par Région
+moyenne 5% ... blala
+
+graphe avec des points:
+x=température
+y=pollution 
+size de dots= catnat
+couleur région
+
+
+pluviométrie
